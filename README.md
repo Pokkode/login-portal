@@ -16,3 +16,7 @@
 ## Demo
 
 https://pokkode.github.io/login-portal
+
+## Authors
+
+- [@Princewill Kalu Orie](https://www.github.com/pokkode)
