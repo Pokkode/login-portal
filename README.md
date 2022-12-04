@@ -24,3 +24,7 @@ https://pokkode.github.io/login-portal
 ## Acknowledgements
 
  - [Devslopes.com](https://Devslopes.com/)
+
+## Features
+
+- Mobile Responsive
