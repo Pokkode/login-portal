@@ -34,3 +34,7 @@ https://pokkode.github.io/login-portal
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princewill-kalu-orie-28621a23b/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KhayPrincewill)
+
+## Support
+
+For support, email pokkode2tw@gmail.com
